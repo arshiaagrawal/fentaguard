@@ -1,2 +1,0 @@
-# fentaguard
-Created with CodeSandbox
